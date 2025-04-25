@@ -1,10 +1,10 @@
 ## Overview
 
-**Project Title**:
+**Project Title**: Hello World
 
-**Project Description**:
+**Project Description**: Write simple "Hello World" program.
 
-**Project Goals**:
+**Project Goals**: To succesfully write a hello world program in any programming language.
 
 ## Instructions for Build and Use
 
@@ -13,7 +13,8 @@ Steps to build and/or run the software:
 1. First step here
 2.
 3.
-
+git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
 Instructions for using the software:
 
 1. First step here
